@@ -17,7 +17,7 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-img 
+kitty 3 
 /*__write_selector_here__*/ {
   position: relative;
   z-index: 5;
